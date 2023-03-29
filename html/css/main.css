@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;800&display=swap');
+
+
+html {
+  overflow: hidden;
+}
+
+.boxen {
+  position: fixed;
+  top: 7%;
+  left: 18.8%;
+  width: 10%;
+  height: 10%;
+}
+
+.boxl1 {
+  position: fixed;
+  width: 3.4%;
+  height: 3.5%;
+  background-color: #3b3b3b;
+  border: 2px solid rgb(0, 7, 105);
+  margin-left: 18.7%;
+  top: 4.2%;
+  transform: skew(-18deg, 0deg);
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+
+.boxl3 {
+  position: fixed;
+  width: 7%;
+  height: 3.5%;
+  background-color: #3b3b3b;
+  border: 2px solid rgb(0, 7, 105);
+  margin-left: 22.7%;
+  top: 4.2%;
+  transform: skew(-18deg, 0deg);
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+
+.middle {
+  position: fixed;
+  width: 5.7%;
+  height: 2.5%;
+  background-color: #3b3b3b;
+  border: 2px solid rgb(0, 7, 105);
+  margin-left: 28.3%;
+  margin-top: 1%;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+
+.boxr3 {
+  position: fixed;
+  width: 7%;
+  height: 3.5%;
+  background-color: #3b3b3b;
+  border: 2px solid rgb(0, 7, 105);
+  margin-left: 32.5%;
+  top: 4.2%;
+  transform: skew(18deg, 0deg);
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+
+.boxr1 {
+  position: fixed;
+  width: 3.4%;
+  height: 3.5%;
+  background-color: #3b3b3b;
+  border: 2px solid rgb(0, 7, 105);
+  margin-left: 40.1%;
+  top: 4.2%;
+  transform: skew(18deg, 0deg);
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+
+.zeit {
+
+  position: relative;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 3%;
+
+}
+
+.punkter {
+  position: relative;
+  transform: skew(-15deg, 0deg);
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 9%;
+
+}
+
+.punktel {
+  transform: skew(15deg, 0deg);
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 8%;
+}
+
+.jobr {
+  transform: skew(-15deg, 0deg);
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 4%;
+}
+
+.jobl {
+  transform: skew(15deg, 0deg);
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 4%;
+}
+
+.jobrechts {
+    position: relative;
+    width: 54%;
+    text-align: center;
+}
+
+.joblinks {
+    position: relative;
+    width: 54%;
+    text-align: center;
+}
+
+.schwerter {
+  position: fixed;
+  width: 2.76%;
+  left: 48.6%;
+  top: 2%;
+}
